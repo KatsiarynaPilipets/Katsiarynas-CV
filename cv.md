@@ -1,43 +1,38 @@
-# Valery Suvorova
+# Katsiaryna Pilipets
 ========================
 
 ## Contacts
 
 * https://valeryshel.github.io/rsschool-cv
-* E-mail: valeryshel@gmail.com
-* Telegram: valeryshel
-* Phone: +7-921-388-22-65
-* Skype: valeryshel@gmail.com
+* E-mail: katrinya1@gmail.com
+* Telegram: canadakatrin
+* Phone: +1-647-674-03-66
+* GitHub: KatsiarynaPilipets
+* LinKedIn: Katsiaryna Pilipets
 
 ## About me
 
-Hey! My name is Valery. I'm from Saint-Petersburg, Russia. I work as a Junior Web-developer at Nordcloud LLC. My main goal is to become an effective specialist who improves his knowledge and skills, works well in a team, makes decisions and takes responsibility for these decisions. My priorities are work-life balance, continuous learning, helping other participants. My strengths are meticulousness, accuracy, diligence.
+Hey! My name is Valery. I'm from Toronto, Canada. I work as a freelance Web-developer. My main goal is to become an effective specialist who improves his knowledge and skills, works well in a team, makes decisions and takes responsibility for these decisions. My priorities are work-life balance, continuous learning, helping other participants. My strengths are multitasking, meticulousness, accuracy, diligence.
 
 ## My Skills
 
 * HTML
 * CSS
 * SCSS+SASS
-* JavaScripts Basics
+* JavaScript
 * GitHub & Git
-* TypeScript (In Progress)
-* Angular (In Progress)
+* React
 
 ## Code examples
 
-+ [MightyCall - VoIP System](https://mightycall.com/)
-+ [Nordcloud - IT-company](https://nordcloud.ru)
-+ [Interior - furniture shop](https://valeryshel.github.io/interior/)
-+ [Limpon - landing page software](https://valeryshel.github.io/limpon/)
-+ [Culture News - Новости культуры](https://valeryshel.github.io/culture_news/)
-+ [Mamon - development agency](https://valeryshel.github.io/mamon/)
++ [Boldo - crowdfunding company](https://dinaradervel.github.io/project1/)
++ [Olesya Nam - psychologist](https://serovakaterina.github.io/project-practice-2/)
++ [NewLineDent - dental clinic](https://katsiarynapilipets.github.io/NewlineDent/)
++ [Chessforskills - web-site for chess coach](https://www.chessforskills.com/)
 
 ## Education
-- HTMLacademy - Frontend Animations
-- GeekBrains - html & css course
-- FrontEndBlok JavaScript Master
-- HTMLacademy - interactive courses
-- PiterCss Meetings
+- ITGirlsSchool - JavaScript & React
+- RS.School - JavaScript
 
 ## Level of English
-+ Intermediate B2.
++ PROFESSIONAL WORKING
