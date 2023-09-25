@@ -3,7 +3,7 @@
 
 ## Contacts
 
-* https://valeryshel.github.io/rsschool-cv
+* https://katsiarynapilipets.github.io/Katsiarynas-CV/
 * E-mail: katrinya1@gmail.com
 * Telegram: canadakatrin
 * Phone: +1-647-674-03-66
